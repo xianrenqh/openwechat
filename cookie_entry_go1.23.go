@@ -1,6 +1,6 @@
 //go:build !(go1.20 || go1.21 || go1.22)
 
-package openwechat
+package main
 
 import "time"
 

@@ -1,4 +1,4 @@
-package openwechat
+package main
 
 //// mode 类型限制
 //type mode string

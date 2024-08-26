@@ -1,4 +1,4 @@
-package openwechat
+package main
 
 import (
 	"context"

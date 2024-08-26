@@ -2,7 +2,7 @@
 
 // 小于go1.20的版本会在编译时报错
 
-package openwechat
+package main
 
 import "time"
 

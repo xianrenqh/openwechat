@@ -1,8 +1,8 @@
-package openwechat
+package main
 
 import (
 	"fmt"
-	"github.com/xianrenqh/openwechat"
+	"github.com/eatmoreapple/openwechat"
 )
 
 func main() {

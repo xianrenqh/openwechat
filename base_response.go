@@ -1,4 +1,4 @@
-package openwechat
+package main
 
 type Ret int
 
