@@ -1,5 +1,3 @@
-module github.com/eatmoreapple/openwechat
+module github.com/xianrenqh/openwechat
 
-go 1.20
-
-
+go 1.21.3
